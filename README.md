@@ -20,3 +20,12 @@ I used bresenham algorithm for the line and scan-fill algorithm for filling squa
 
 Simple map filled
 ![alt text](https://github.com/thchin/Rasterizer/blob/master/screenshots/42_full.png)
+
+Simple map only with lines
+![alt text](https://github.com/thchin/Rasterizer/blob/master/screenshots/42_line.png)
+
+Big map filled
+![alt text](https://github.com/thchin/Rasterizer/blob/master/screenshots/mars_full.png)
+
+Big map only with lines
+![alt text](https://github.com/thchin/Rasterizer/blob/master/screenshots/mars_line.png)
